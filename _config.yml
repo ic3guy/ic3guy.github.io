@@ -16,7 +16,7 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "//ic3guy.github.io/about"
+    href:           "//ic3guy.github.io/about/"
 
 # Sass
 sass:
