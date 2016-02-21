@@ -4,8 +4,6 @@ layout: post
 published: true
 ---
 
-
-
 ```csharp
 Console.WriteLine("Hello World");
 ```
