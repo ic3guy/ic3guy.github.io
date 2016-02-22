@@ -23,10 +23,15 @@ $$12345/3 = 4115$$
 The question is why does this work? We can decompose an integer like so
 
 $$ 1 \times 10000 + 2 \times 1000 + 3 \times 100 + 4 \times 10 + 5 \times 1$$
+
 equivalently
+
 $$ 1 \times (9999+1) + 2 \times (999+1) + 3 \times (99 +1) + 4 \times (9+1) + 5 \times 1$$
+
 multply that out
+
 $$ 1(9999) + 1 + 2(999) + 2 + 3(99) + 3 + 4(9) + 4 + 5 $$
+
 for the whole term to be divisible by 3, each term has to be evenly divisible by 3. Each term that is 9, 99, 999 etc. is obviously divisible by 3. Therefore we are left with
 
 $$ 1 + 2 + 3 + 4 + 5 $$
