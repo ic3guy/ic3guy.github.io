@@ -39,6 +39,7 @@ $$ 1 + 2 + 3 + 4 + 5 $$
 which must be divisible by 3, to imply the original number is divisible by 3. The cool thing it works at the second level as well
 
 $$ 1 + 2 + 3 + 4 + 5 = 15$$
+
 $$ 1 + 5 = 6$$
 
-An \\(6\\) is divisible by 3. Voila!
+And \\(6\\) is obviously divisible by 3. Voila!
