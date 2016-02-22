@@ -8,6 +8,7 @@ layout: post
 This is probably something I learned in grade school, but must have forgot along the way. Math is all about tricks or rules of thumb such as this.
 
 As John von Neumann once said
+
 > ...in mathematics you don't understand things. You just get used to them.
 
 Here's a quick way to determine if a number is divisible by 3.
