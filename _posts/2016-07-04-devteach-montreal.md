@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 ## On the way to DevTeach Montreal 2016
 
