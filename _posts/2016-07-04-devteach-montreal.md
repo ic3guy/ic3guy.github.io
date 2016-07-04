@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ## On the way to DevTeach Montreal 2016
