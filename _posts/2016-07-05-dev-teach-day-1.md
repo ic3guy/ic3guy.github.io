@@ -13,3 +13,8 @@ Still does not support all the refactoring power of Resharper. But it is getting
 Perhaps not a drop down replacement, but much better than Notepad++. 
 
 ### Introduction to Typescript
+
+Introduces types.
+Transpiles from Typescript into ES6/ES5
+
+Can target whatever javascript you want.
