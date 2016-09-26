@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 ## Continuing personal development
@@ -21,4 +21,3 @@ I'd like to use this post to keep track of where I am in my continual business d
 ### Online Courses
 - Pluralsight
 - Codeschool
-
