@@ -11,6 +11,8 @@ I'd like to use this post to keep track of where I am in my continual business d
 
 ### Techie Book Stack
 1. Domain Driven Design - Eric Evans
+2. Algorithms Unlocked - Cormen
+3. Introduction to Algorithms - Cormen et al.
 
 ### Fun Book Stack
 1. Roadside Picnic - Arkady and Boris Strugatsky
