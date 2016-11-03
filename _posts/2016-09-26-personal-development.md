@@ -7,8 +7,9 @@ layout: post
 I'd like to use this post to keep track of where I am in my continual business development.
 
 ### Financial Book Stack
-1. [ ] ~~_Contrarian Investment Strategies_ - David Dreman~~
-2. _The Black Swan: The Impact of the Highly Improbable_ - Nassim Nicholas Taleb
+- _The Little Book of Value Investing_ - Loewenstein, Roger and Browne, Christopher 
+- _Contrarian Investment Strategies_ - David Dreman **read**
+- _The Black Swan: The Impact of the Highly Improbable_ - Nassim Nicholas Taleb **read**
 
 ### Techie Book Stack
 1. Domain Driven Design - Eric Evans
