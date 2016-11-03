@@ -7,7 +7,7 @@ layout: post
 I'd like to use this post to keep track of where I am in my continual business development.
 
 ### Financial Book Stack
-- _The Little Book of Value Investing_ - Loewenstein, Roger and Browne, Christopher 
+- _The Little Book of Value Investing_ - Loewenstein and Browne
 - **read** - _Contrarian Investment Strategies_ - David Dreman 
 - **read** - _The Black Swan: The Impact of the Highly Improbable_ - Nassim Nicholas Taleb 
 
