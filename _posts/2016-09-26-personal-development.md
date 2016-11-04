@@ -19,6 +19,8 @@ I'd like to use this post to keep track of where I am in my continual business d
 ### Fun Book Stack
 1. Roadside Picnic - Arkady and Boris Strugatsky
 
+### Pluralsight ###
+- Play by Play: EF Core 1.0: First Look, Grosenbach and Lerman
+
 ### Online Courses
-- Pluralsight
 - Codeschool
