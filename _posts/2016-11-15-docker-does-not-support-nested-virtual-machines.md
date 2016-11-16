@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 ## Docker for Windows
 
