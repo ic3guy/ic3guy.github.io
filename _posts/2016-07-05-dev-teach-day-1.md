@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: DevTeach Montreal Overview
 layout: post
 ---
 ## Introduction to Visual Studio CODE
