@@ -1,5 +1,6 @@
 ---
 published: true
+title: Contrarian Ratios
 layout: post
 ---
 ## [Price to Earnings](http://www.investopedia.com/terms/p/price-earningsratio.asp)
