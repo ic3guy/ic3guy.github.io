@@ -1,14 +1,14 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
 name:               "William Denman"
+paginate:	    5
+
+title:		    "William Denman"
+tagline:	    PhD
 
 # URL
 baseurl:            ""
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+permalink:           pretty
+relative_permalinks: true
 
 # Navigation
 nav:
