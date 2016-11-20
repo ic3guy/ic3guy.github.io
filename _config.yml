@@ -4,11 +4,14 @@ paginate:	    5
 
 title:		    "William Denman"
 tagline:	    PhD
+description:	    "A hacker, a tinkerer, a nerd"
 
 # URL
 baseurl:            ""
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: true
+url:		     http://www.williamdenman.ca
+
 
 # Navigation
 nav:
@@ -34,3 +37,8 @@ defaults:
     values:
       layout:       "post"
       comments:     "true"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
