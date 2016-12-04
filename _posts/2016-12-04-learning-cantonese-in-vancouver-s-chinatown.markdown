@@ -59,4 +59,10 @@ We learned how to talk to elders and how to ask them how they are doing. We had 
 
 We learned all the things to order at yam chah! My favourite is dza leung (friend chinese donut).
 
-We then went and ate out as a group to the [Floata Seafood Restaurant](http://www.floata.com/). 
+We then went and ate out as a group to the [Floata Seafood Restaurant](http://www.floata.com/).
+
+### Week 5 - Nov 5 2016 - Friends and Family!
+
+We learned how to call all the people on the family tree. I now know to refer to my wife as loh poh.
+
+For our field trip we walked around Chinatown and the Downtown East Side looking at all the clan society buildings. We then visited the Ing Society and got to see the attic of their building. This is where many of the men arriving in Canada would stay in the early 1900's.
