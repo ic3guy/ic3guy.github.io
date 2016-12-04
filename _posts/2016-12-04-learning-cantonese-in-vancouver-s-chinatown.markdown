@@ -72,3 +72,17 @@ For our field trip we walked around Chinatown and the Downtown East Side looking
 We learned about all the different types of chah (tea) that you can order at dim sum. The main ones are pou lei (black tea), guk fa (chrysanthemum), heung pin (jasmine).
 
 The field trip this week was incredibly special. We visited the **The Chinese Tea Shop** at 101 E Pender St. Where we were served some amazing sauh mei (white tea) by Daniel the proprietor. He taught us how to properly brew the tea as well. For the type we were drinking it was only steeped for 15-20 seconds. He also taught us how to identify good green tea leaves. You want small complete leaves, which indicates picked by hand and not by machine.
+
+### Week 7 - Nov 23 2016 - Places in Chinatown
+
+We learned some numbers and how to call all the landmarks in Chinatown. Places like Dr Sun Yat-sen Garden, the Chinese Cultural Centre, Millennium Gate etc. Some of the street names in Cantonese go by the phonetic sound in english. Pin da (pender), hei sih dihng (hastings), go leuhn bei nga (columbia). Quite interesting.
+
+We visited Shanghai alley this week. This is a very historical street which used to house many businesses. There is a historical display with many plaques to read. You can see what Shanghai alley looked like back in the 50s in this [video](https://www.youtube.com/watch?v=mfwZqoyQoN8&list=PL-XwqoQr7mtvfwKOmHx2SUm63VkKy9_iZ&index=2)
+
+### Week 8 - Dec 3 2016 - Final Exam
+
+In this final class we were broken up into groups of 4, each assigned a food group, starch, bbq meat, dessert, vegetable and were sent off into the community. Our exam was to order what we had been assigned and meetup back at the Hua foundation's building for a group meal.
+
+My group was assigned bbq meat. I learned about some of the racist legislation that was enacted in the late 70s and early 80s that targeted the bbq meat shops in Chinatown that were considered unhygenic. 
+
+## Final Words
