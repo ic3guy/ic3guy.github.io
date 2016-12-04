@@ -66,3 +66,9 @@ We then went and ate out as a group to the [Floata Seafood Restaurant](http://ww
 We learned how to call all the people on the family tree. I now know to refer to my wife as loh poh.
 
 For our field trip we walked around Chinatown and the Downtown East Side looking at all the clan society buildings. We then visited the Ing Society and got to see the attic of their building. This is where many of the men arriving in Canada would stay in the early 1900's.
+
+### Week 6 - Nov 19 2016 - Drinking Tea!
+
+We learned about all the different types of chah (tea) that you can order at dim sum. The main ones are pou lei (black tea), guk fa (chrysanthemum), heung pin (jasmine).
+
+The field trip this week was incredibly special. We visited the **The Chinese Tea Shop** at 101 E Pender St. Where we were served some amazing sauh mei (white tea) by Daniel the proprietor. He taught us how to properly brew the tea as well. For the type we were drinking it was only steeped for 15-20 seconds. He also taught us how to identify good green tea leaves. You want small complete leaves, which indicates picked by hand and not by machine.
