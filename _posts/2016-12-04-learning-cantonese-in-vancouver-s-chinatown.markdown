@@ -47,6 +47,6 @@ We had a small talk about the history of chinatown. Some of the issues that are 
 
 We learned how to name the standard and not so standard vegetables. My favourite at the moment is **tsoi4 sam1**.
 
-For our field trip we visited the **Tin Lee Market** at 260 Georgia St. E one of a handful of greengrocers still in existence in Chinatown. They are clean, spacious and have a great selection and have very reasonable prices. I picked up some **hœng1 dziu1** (bananas). I might have butt in front of a po po, but I said mh hou yi si and she smiled and let me go. 
+For our field trip we visited the **Tin Lee Market** at 260 Georgia St. E one of a handful of greengrocers still in existence in Chinatown. They are clean, spacious and have a great selection and have very reasonable prices. I picked up some **hœng1 dziu1** (bananas). I might have butt in front of a po po, but I said mh hou yi si and she smiled and let me go ahead of her.
 
-Many others have closed down due to rising rents and decreasing patronage. Together, we can increase the body count in Chinatown and ensure business like this survive.
+Many of the grocers, which cater especially to the elders of the community, have closed down due to rising rents and decreasing patronage. Together, we can increase the body count in Chinatown and ensure idispensible business like this survive.
