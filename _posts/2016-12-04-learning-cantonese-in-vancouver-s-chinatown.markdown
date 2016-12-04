@@ -49,4 +49,14 @@ We learned how to name the standard and not so standard vegetables. The handout 
 
 For our field trip we visited the **Tin Lee Market** at 260 Georgia St. E one of a handful of greengrocers still in existence in Chinatown. They are clean, spacious and have a great selection and have very reasonable prices. I picked up some **hœng1 dziu1** (bananas). I might have butt in front of a po po, but I said mh hou yi si and she smiled and let me go ahead of her.
 
-Many of the grocers, which cater especially to the elders of the community, have closed down due to rising rents and decreasing patronage. Together, we can increase the body count in Chinatown and ensure indispensible business like this survive.
+Many of the grocers, which cater especially to the elders of the community, have closed down due to rising rents and decreasing patronage. Together, we can increase the body count in Chinatown and ensure indispensable business like this survive.
+
+### Week 3 - Oct 22 2016 - Talking to the elderly
+
+We learned how to talk to elders and how to ask them how they are doing. We had  some elderly people come and visit us and we practiced talking with them
+
+### Week 4 -  Oct 29 2016 - Dim Sum!
+
+We learned all the things to order at yam chah! My favourite is dza leung (friend chinese donut).
+
+We then went and ate out as a group to the [Floata Seafood Restaurant](http://www.floata.com/). 
