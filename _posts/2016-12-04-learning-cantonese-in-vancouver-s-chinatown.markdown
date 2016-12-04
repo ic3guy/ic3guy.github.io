@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Learning Cantonese in Vancouver's Chinatown
 layout: post
 tags: [chinatown, vancouver]
