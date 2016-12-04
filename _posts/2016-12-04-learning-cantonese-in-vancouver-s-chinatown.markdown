@@ -45,8 +45,8 @@ We had a small talk about the history of chinatown. Some of the issues that are 
 
 ### Week 2 - Oct 15 2016 - CHOY (Vegetables)
 
-We learned how to name the standard and not so standard vegetables. My favourite at the moment is **tsoi4 sam1**.
+We learned how to name the standard and not so standard vegetables. The handout we received was from the [Hua Foundation](http://www.huafoundation.org/thechoiproject/seasonal-choi-guide/) describes all the vegetables that are in season. My favourite at the moment is **tsoi4 sam1**.
 
 For our field trip we visited the **Tin Lee Market** at 260 Georgia St. E one of a handful of greengrocers still in existence in Chinatown. They are clean, spacious and have a great selection and have very reasonable prices. I picked up some **hœng1 dziu1** (bananas). I might have butt in front of a po po, but I said mh hou yi si and she smiled and let me go ahead of her.
 
-Many of the grocers, which cater especially to the elders of the community, have closed down due to rising rents and decreasing patronage. Together, we can increase the body count in Chinatown and ensure idispensible business like this survive.
+Many of the grocers, which cater especially to the elders of the community, have closed down due to rising rents and decreasing patronage. Together, we can increase the body count in Chinatown and ensure indispensible business like this survive.
