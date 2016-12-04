@@ -17,16 +17,18 @@ There are many reasons these groups exist, but one of the most important is util
 
 Another important function that was set up by the societies was language schools. It was easy for children to pick up conversational Cantonese in the household from family. But it was much more difficult to learn to read and write. It was incredibly important for the early immigrants that their children be completely literate in Chinese because of the continual fear that the Canadian immigration policies could suddenly change and everyone would be deported back to China. The Mon Keang School (established 1925) was setup by the Wong Benevolent Society to teach reading and writing, initially to its member's children. 
 
-The pupils would usually come to school every day after regular school or after supper. It was quite grueling since the focus was learning via rote memorisation. Over time language schools transitioned to a weekend class model. I remember when I was younger, many of my chinese friends absolutely *hated* chinese school on the weekends. Many gave it up and now cannot read or write chinese. As time went on, the Mon Keang school's class sizes dwindled. It closed its doors in 2011.
+The pupils would usually come to school every day after regular school or after supper. It was quite grueling since the focus was learning via rote memorisation. Over time language schools transitioned to a weekend class model. I remember when I was younger, many of my chinese friends absolutely *hated* chinese school on the weekends. Many gave it up and now cannot read or write chinese. As time went on, the Mon Keang school's class sizes dwindled. It closed its doors in 2011. This has a lot to do with the changing demographics, with more Mandarin speakers immigrating to Canada.
 
 A sad end, but onto new beginnings! The language school organized by the Youth Collaborative For Chinatown was established the Mon Keang school's original location. We sat on the same chairs and used the same desks. It was a little tight for my 6"2 frame, but it made it all the more special. The return of the school is an important step to increasing the foot traffic in Chinatown.
 
 ## The Teachers and Organizers
 
-There were many people involved with getting the language school going, but there were a few standouts. 
+There were many people involved with getting the language school going and helping out each week, but there are a few I would like to highlight.
 
-Doris and June Chow, co-founding members of the YCC, were incredibly friendly, energetic (for saturday mornings) and well versed about the history of Chinatown. Their grandmother lived for years in the neighbourhood, so it is easy to understand their passion for the project.
+The sisters Doris and June Chow, co-founding members of the YCC, were incredibly friendly, energetic (given our early saturday morning starts) and well versed about the history of Chinatown. Their grandmother lived for years in the neighbourhood, so it is easy to understand their passion for the project. I'll always remember: **DON'T BLOCK THE SIDEWALK**.
 
 Jeffrey Wong holds a senior position in the Wong Benevolent Society. He made us feel very welcome in their building and was able to show us the clan meeting room and their archives.
 
-Zoe Lam was our teacher. She had a really great positive attitude to teaching. Never thought our questions were silly. And was able to draw a pretty good mouth, tongue and epiglottis! 
+Zoe Lam was our teacher. She had a really great positive attitude. She never thought our questions were silly. And she was able to draw a pretty good mouth, tongue and epiglottis!
+
+## The Class and Field Trips
