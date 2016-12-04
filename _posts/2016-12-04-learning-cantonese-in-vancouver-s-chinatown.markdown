@@ -32,3 +32,17 @@ Jeffrey Wong holds a senior position in the Wong Benevolent Society. He made us 
 Zoe Lam was our teacher. She had a really great positive attitude. She never thought our questions were silly. And she was able to draw a pretty good mouth, tongue and epiglottis!
 
 ## The Class and Field Trips
+
+Here I will summarize what we learned each week and highlight some of the places we went for our field trips.
+
+### Week 1 - Oct 1 2016 - Cantonese Greetings
+
+We learned the basics of the Yale romanization system. As well as how to say our please and thank you's.
+
+My favourite phrase **lei5 sIk6 dzo2 fan6 mei6 a3**. It literally means have you eaten rice yet? But it is said as a general greeting.
+
+We had a small talk about the history of chinatown. Some of the issues that are important for the community. Our field trip was to see the Wong clan meeting chambers and to see some of their archives.
+
+###
+
+
