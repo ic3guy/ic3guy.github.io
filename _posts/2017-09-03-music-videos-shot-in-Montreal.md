@@ -1,11 +1,11 @@
 ---
-published: false
+published: true
 ---
 
 I've always been fascinated with music videos that showcase a cities architecture. They are also a snapshot in time so it can be fun to remember old landmarks and old memories. Since I no longer living in Montreal, I love watching music videos that have been shot there to reminisce!
 
 ## Astounded - Bran Van 3000
-[Shot in 2000](https://www.youtube.com/watch?v=VbJgdalkuC8). Lachine canal, the plateau, St. Catherine Street. Views of the Olympic stadium.
+[Shot in 2000](https://www.youtube.com/watch?v=VbJgdalkuC8) Lachine canal, the plateau, St. Catherine Street. Views of the Olympic stadium.
 
 ## Avec Classe - Corneille
 [Shot in 2001/02](https://www.youtube.com/watch?v=kckDIPHrdsw)
@@ -30,5 +30,6 @@ This is a fun one. I've made that trip home many times from overseas! Views of T
 ## Libre - Les Respectables
 [2003/04](https://www.youtube.com/watch?v=W70veYC77hU)
 Shows the Turcot interchange. Which is mostly demolished now.
+
 
 
