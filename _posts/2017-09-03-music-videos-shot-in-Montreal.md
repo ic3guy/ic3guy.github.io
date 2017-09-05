@@ -31,5 +31,7 @@ This is a fun one. I've made that trip home many times from overseas! Views of T
 [2003/04](https://www.youtube.com/watch?v=W70veYC77hU)
 Shows the Turcot interchange. Which is mostly demolished now.
 
-
+## Where Do The Boys Go - Men Without Hats
+[1984?](https://www.youtube.com/watch?v=8T3N6a24A9I)
+Dancing around the Orange Julep on decarie, with bonhommes. Views of the big O, possibly when the alouettes played there as it is decked out with football lines. Then at the expo dome, perhaps before it burned down?
 
