@@ -1,10 +1,19 @@
 ---
 published: true
+layout: post
+tags: [music, youtube]
+categories: [links]
 ---
 
-Here are some standard go-to videos I listen to. I like live performances because they change up the tunes in a free style way that keeps them interesting to return to after many plays.
+Here are some standard go-to videos I listen to. I like live performances because they keep things interesting, allowing for many repeated listenings.
 
-## Tragically Hip - Set at Woodstock 99'
+## Chainsaw Kittens - Norman, OK '90
+[1990](https://www.youtube.com/watch?v=PSGF94_Gl_E) This recording is a little rough, but it you really get the feeling of the show. Chainsaw Kittens never really "made it". But you can still hear their influence in many bands still putting out records today.
+
+## Radiohead - Live at the Astoria '94
+[1994](https://www.youtube.com/watch?v=QerNhaVjZ5o) It took me the longest time to get into Radiohead, maybe about 5-10 years! This live DVD showcases their earlier more alternative sound. The Astoria no longer exists, what a sad story about why it was demolished.
+
+## Tragically Hip - Set at Woodstock '97
 [1999](https://www.youtube.com/watch?v=lcK1P491lmk) They play all the hits that were current up to that year. Gord Downie has some hilarious banter with the crowd. 
 
 ## Madeon - Live mix on French radio station "Party Fun"
@@ -16,7 +25,7 @@ Here are some standard go-to videos I listen to. I like live performances becaus
 ## Rush - Exit Stage Left
 [1980](https://www.youtube.com/watch?v=4oSzKc25R54) I consider Alex Lifeson one of the best guitarists of all time. Rush the best Canadian rock band of all time. Bonus for the recording being done at the Montreal Forum.
 
-## Fleetwood Mac - The Dance World Tour 97'
+## Fleetwood Mac - The Dance World Tour '97
 [1997](https://www.youtube.com/watch?v=MrRVW-p8SJ8) I cannot find a single video of the entire recording, but any singles from this tour show the lasting power of Fleetwood Mac. Do I dare admit a crush on Stevie Nicks?
 
 ## Talking Heads - Stop Making Sense
