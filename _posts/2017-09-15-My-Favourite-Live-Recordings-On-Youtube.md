@@ -7,6 +7,12 @@ categories: [links]
 
 Here are some standard go-to videos I listen to. I like live performances because they keep things interesting, allowing for many repeated listenings.
 
+## Tommy Emmanuel - MTV Australia Basement Tapes
+[1991](https://www.youtube.com/watch?v=dQavIV4YEfc) This was before Tommy transitioned into acoustic guitar full time. Simply one of the best guitarists in the world. Crazily in this taping he had a raging migraine (from cocaine use). Fortunately he's all clean now and going stronger than ever!
+
+## Andy McKee - Rockpalast
+[2012](https://www.youtube.com/watch?v=E1g4J6MnH3c) I found Andy McKee through his Candy Rat recordings of "Drifting". This recording is a nice pro-shot. He's got a cool perfect pitch guitar with slanted frets. Also, shows you even if you got fat, pudgy fingers... you can still be amazing at guitar.
+
 ## Chainsaw Kittens - Norman, OK '90
 [1990](https://www.youtube.com/watch?v=PSGF94_Gl_E) This recording is a little rough, but it you really get the feeling of the show. Chainsaw Kittens never really "made it". But you can still hear their influence in many bands still putting out records today.
 
